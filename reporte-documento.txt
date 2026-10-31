@@ -1,0 +1,30 @@
+ANÁLISIS DEL DOCUMENTO
+======================
+
+Archivo: documento.txt
+
+Total de líneas: 4
+Total de palabras: 20
+Palabras diferentes: 15
+
+Palabra más frecuente:
+sistema (3)
+
+FRECUENCIA DE PALABRAS
+----------------------
+
+archivos             1
+datos                2
+de                   1
+debe                 1
+del                  1
+el                   2
+en                   1
+errores              1
+guarda               1
+los                  1
+manejar              1
+procesa              1
+sistema              3
+software             2
+un                   1

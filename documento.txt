@@ -1,0 +1,4 @@
+Un sistema de software procesa datos.
+El sistema guarda los datos en archivos.
+
+El software del sistema debe manejar errores.

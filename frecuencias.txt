@@ -1,0 +1,27 @@
+PALABRA              FRECUENCIA
+-------------------------------
+java                 4
+es                   1
+un                   3
+lenguaje             1
+de                   5
+programación         1
+permite              1
+desarrollar          1
+diferentes           1
+tipos                1
+aplicaciones         1
+programa             2
+puede                2
+leer                 2
+información          2
+archivos             2
+también              1
+escribir             2
+en                   1
+los                  2
+flujos               2
+entrada              1
+permiten             2
+datos                2
+salida               1
